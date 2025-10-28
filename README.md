@@ -1,11 +1,101 @@
-<h1 align="center">Bonjour, je suis Killian Mahut</h1>
-<h3 align="center">étudiant</h3>
+<!DOCTYPE html>
+<html lang="fr">
 
-- 📫 Comment me contacter **killian.mahut@sfr.fr**
+<head>
+    <meta charset="UTF-8">
+    <title>Killian Mahut - GitHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background: #f9f9f9;
+            color: #333;
+            padding: 20px;
+        }
 
-<h3 align="left">Contactez-moi :</h3>
-<p align="left">
-</p>
+        h1,
+        h2 {
+            color: #2c3e50;
+        }
 
-<h3 align="left">Langues et outils :</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a Français : href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/fr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+        ul {
+            list-style-type: square;
+            margin-left: 20px;
+        }
+
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .badge {
+            display: inline-block;
+            background: #3498db;
+            color: #fff;
+            padding: 3px 8px;
+            border-radius: 5px;
+            margin-right: 5px;
+            font-size: 0.9em;
+        }
+
+        .project {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>👋 Bonjour, je suis Killian Mahut</h1>
+    <p>Bienvenue sur mon GitHub ! Je suis <strong>étudiant en 2ᵉ année spécialité développement</strong> à la Manu de
+        Compiègne, passionné par la programmation et la création d’interfaces interactives.</p>
+
+    <h2>💻 Compétences</h2>
+    <span class="badge">Python</span>
+    <span class="badge">HTML</span>
+    <span class="badge">CSS</span>
+    <span class="badge">JavaScript</span>
+    <span class="badge">Figma</span>
+    <span class="badge">Blender</span>
+    <p>Développement : Interfaces graphiques Python, création de sites web interactifs, projets avec API.</p>
+
+    <h2>📂 Projets principaux</h2>
+    <div class="project">
+        <strong>Interface graphique tableau des scores</strong>
+        <p>Création d’un tableau interactif en Python pour suivre les scores.</p>
+    </div>
+    <div class="project">
+        <strong>My Mooviz</strong>
+        <p>Projet web utilisant une API pour afficher les films et sorties cinéma. Front-end en HTML/CSS/JS.</p>
+    </div>
+    <div class="project">
+        <strong>Portfolio personnel</strong>
+        <p>Présentation de mes projets et compétences. Démonstration de mes capacités en design et développement web.
+        </p>
+    </div>
+
+    <h2>🎯 Objectifs</h2>
+    <p>Je suis actuellement à la recherche d’un <strong>stage ou d’une alternance</strong> pour mettre mes compétences
+        en pratique et continuer à apprendre dans un environnement professionnel stimulant.</p>
+
+    <h2>✨ À propos de moi</h2>
+    <ul>
+        <li>Passionné par la <strong>programmation et le design</strong></li>
+        <li>Curieux, toujours prêt à <strong>apprendre de nouvelles technologies</strong></li>
+        <li>J’aime explorer <strong>les interfaces graphiques et la 3D avec Blender</strong></li>
+    </ul>
+
+    <h2>📫 Me contacter</h2>
+    <p>
+        <a href="#">LinkedIn</a> |
+        <a href="#">Email</a>
+    </p>
+
+    <blockquote>“Le code, c’est comme la création : on part d’une idée et on construit quelque chose qui peut changer le
+        quotidien.”</blockquote>
+</body>
+
+</html>
