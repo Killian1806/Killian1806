@@ -4,14 +4,16 @@
         Compiègne, passionné par la programmation et la création d’interfaces interactives.</p>
 
 <h2>💻 Compétences</h2>
-    <span class="badge">Python</span>
-    <span class="badge">HTML</span>
-    <span class="badge">CSS</span>
-    <span class="badge">JavaScript</span>
-    <span class="badge">Figma</span>
-    <span class="badge">Blender</span>
-    <p>Développement : Interfaces graphiques Python, création de sites web interactifs, projets avec API.</p>
-
+    <ul>
+        <li><span class="badge">Python</span></li>
+        <li><span class="badge">HTML</span></li>
+        <li><span class="badge">CSS</span></li>
+        <li><span class="badge">JavaScript</span></li>
+        <li><span class="badge">Figma</span></li>
+        <li><span class="badge">Blender</span></li>
+    </ul>
+    <p>Développement : Interfaces graphiques Python, création de sites web interactifs, projets avec API.</p>   
+    
 <h2>📂 Projets principaux</h2>
 <div class="project">
         <strong>Interface graphique tableau des scores</strong>
