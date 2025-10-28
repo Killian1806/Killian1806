@@ -54,12 +54,10 @@
 
 <h2>📫 Me contacter</h2>
 <p>
-        <a href="https://www.linkedin.com/in/killian-mahut-b85105341/">LinkedIn</a> |
+        <a href="https://www.linkedin.com/in/killian-mahut-b85105341/" target="_blank">LinkedIn</a> |
         <a href="mailto:killian.mahut@sfr.fr">Email</a>
 </p>
 
-<blockquote>“Le code, c’est comme la création : on part d’une idée et on construit quelque chose qui peut changer le
-        quotidien.”</blockquote>
 </body>
 
 </html>
