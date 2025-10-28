@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-
-<head>
-    <meta charset="UTF-8">
-    <title>Killian Mahut - GitHub</title>
-</head>
-
 <body>
     <h1>👋 Bonjour, je suis Killian Mahut</h1>
     <p>Bienvenue sur mon GitHub ! Je suis <strong>étudiant en 2ᵉ année spécialité développement</strong> à la Manu de
