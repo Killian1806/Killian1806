@@ -4,47 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Killian Mahut - GitHub</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background: #f9f9f9;
-            color: #333;
-            padding: 20px;
-        }
-
-h1, h2 {
-            color: #2c3e50;
-        }
-
-ul {
-            list-style-type: square;
-            margin-left: 20px;
-        }
-
-a {
-            color: #2980b9;
-            text-decoration: none;
-        }
-
-a:hover {
-            text-decoration: underline;
-        }
-
-.badge {
-            display: inline-block;
-            background: #3498db;
-            color: #fff;
-            padding: 3px 8px;
-            border-radius: 5px;
-            margin-right: 5px;
-            font-size: 0.9em;
-        }
-
-.project {
-            margin-bottom: 15px;
-        }
-    </style>
 </head>
 
 <body>
