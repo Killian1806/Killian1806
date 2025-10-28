@@ -12,7 +12,12 @@
         <li><span class="badge">Figma</span></li>
         <li><span class="badge">Blender</span></li>
     </ul>
-    <p>Développement : Interfaces graphiques Python, création de sites web interactifs, projets avec API.</p>   
+    <p>Développement : 
+        <ul>
+            <li>Interfaces graphiques Python</li>
+            <li>création de sites web interactifs</li>
+            <li>projets avec API</li>
+        </ul>   
     
 <h2>📂 Projets principaux</h2>
 <div class="project">
