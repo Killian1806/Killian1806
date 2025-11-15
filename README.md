@@ -55,7 +55,7 @@
 <h2>📫 Me contacter</h2>
 <p>
         <a  href="https://www.linkedin.com/in/killian-mahut-b85105341/">LinkedIn</a> |
-        <a href="mailto:killian.mahut@sfr.fr">Email</a>
+        <a href="mailto:killian.mahut@sfr.fr">killian.mahut@sfr.fr</a>
 </p>
 
 </body>
