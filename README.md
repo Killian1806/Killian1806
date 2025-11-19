@@ -9,6 +9,10 @@
         <li><span class="badge">HTML</span></li>
         <li><span class="badge">CSS</span></li>
         <li><span class="badge">JavaScript</span></li>
+        <li><span class="badge">Java</span></li>
+        <li><span class="badge">PHP</span></li>
+        <li><span class="badge">SQL</span></li>
+        <li><span class="badge">WordPress</span></li>
         <li><span class="badge">Figma</span></li>
         <li><span class="badge">Blender</span></li>
     </ul>
@@ -43,8 +47,7 @@
 
 
 <h2>🎯 Objectifs</h2>
-<p>Je suis actuellement à la recherche d’un <strong>stage et d’une alternance</strong> pour mettre mes compétences
-        en pratique et continuer à apprendre dans un environnement professionnel stimulant.</p>
+<p>Je suis actuellement à la recherche d’un <strong>stage</strong> et d’une <strong>alternance</strong> pour mettre mes compétences en pratique et continuer à apprendre dans un environnement professionnel stimulant.</p>
 
 <h2>✨ À propos de moi</h2>
 <ul>
